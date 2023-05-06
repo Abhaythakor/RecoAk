@@ -11,6 +11,7 @@ import (
     "bytes"
     "github.com/schollz/progressbar/v3"
     "io"
+
 )
 
 func amassEnum(path string) {
