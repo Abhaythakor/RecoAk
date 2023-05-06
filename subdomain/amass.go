@@ -8,7 +8,7 @@ import (
     "strings"
     "time"
 
-    "github.com/schollz/progressbar/v3"
+    "github.com/schollz/progressbar"
 )
 
 func amassEnum(path string) {
